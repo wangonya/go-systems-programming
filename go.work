@@ -1,0 +1,7 @@
+go 1.19
+
+use (
+	./01-working-dir
+	./02-files-in-dir
+	./03-buffer-array-read
+)
